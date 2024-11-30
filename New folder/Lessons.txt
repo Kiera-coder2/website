@@ -1,0 +1,81 @@
+<!DOCTYPE.html>
+<html>
+<head> <title> Lessons Page. </title> </head>
+<style>
+img{Height:300px; Width:400px; float:left; margin:35px;}
+</style>
+<h1 style="text-align:center; font-family:Courier;"> Welcome </h1>
+<h3 style="text-align:center; font-family:Courier;">This is the Lessons Page.</h3>
+<body background="BlueImageBackground.jpg">
+
+<p style="text-align:center; font-family:Courier;"> Welcome to the Lessons page! <br><br>
+In this page, you'll see Miss Uminga's lessons <br><br>
+From 1st Quarter to 2nd Quarter. 
+</p>
+
+<h3 style="text-align:center; font-family:Courier;"> 1st Quarter </h3>
+<hr width="1000" align="center">
+
+<p align="center"><b> LESSONS <b></p>
+<ol type="1" align="center">
+<li> <a href="https://www.canva.com/design/DAGSIBnQqJc/QUT68ctWAqSCtByVbaCX6A/edit?utm_content=DAGSIBnQqJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #1 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSICi-yUY/Imwld1aS_FnCePjy8RKVfg/edit?utm_content=DAGSICi-yUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #2 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSIByy2_I/JnJrpbs4sHujeg1-GuXHYg/edit?utm_content=DAGSIByy2_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #3 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSIK3-IY4/SvDHHEQy0jlHxQ06ZCVPow/edit?utm_content=DAGSIK3-IY4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #4 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSIAJQozc/TVobjAz-2NWbVnt6dDU6Cg/edit?utm_content=DAGSIAJQozc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #5 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSIL0T-1I/tEmJaVOpU4YeQJbzo0X2yA/edit?utm_content=DAGSIL0T-1I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #6 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSIHty4OA/RGDjAy8mbOWlnBMl3HLQHA/edit?utm_content=DAGSIHty4OA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #7 </a> </li>
+<li> <a href="https://www.canva.com/design/DAGSIWRS1fA/GhRBBHgck6dqXr5MY1YGAw/edit?utm_content=DAGSIWRS1fA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Lesson #8 </a> </li>
+</ol>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h3 style="text-align:center; font-family:Courier;"> 2nd Quarter </h3>
+<hr width="1000" align="center">
+
+<img src="LESSON1-2ndQtr.jpg" alt="A set of pictures">
+<p style="font-family:Courier; font-size:30px;"><br><br>This is our first and second lesson of ICT. <br><br>
+We tackled about the definition of CSS,<br><br>
+the layers, how to use it, types, etc. </p>
+
+
+<img src="LESSON2-2ndQtr.jpg" alt="A set of pictures" style="float:right;">
+<p style="font-family:Courier; font-size:30px; text-align:left;"><br><br><br>This is our third lesson of ICT. <br><br>
+We tackled about the Kinds of Elements in CSS. </p>	
+
+<br>
+<br>
+<br>
+
+<img src="LESSON4-2ndQtr.jpg" alt="A set of pictures" style="float:left;">
+<p style="font-family:Courier; font-size:30px;"><br><br><br>This is our fourth lesson of ICT. <br><br>
+We tackled about the tags that we can use in CSS. </p>	
+
+<img src="LESSON5-2ndQtr.jpg" alt="A set of pictures" style="float:right;">
+<p style="font-family:Courier; font-size:30px;"><br><br><br>This is our fifth lesson of ICT. <br><br>
+We tackled about the multiple selectors in CSS, and some other things. </p>	
+
+<img src="LESSON6-2ndQtr.jpg" alt="A set of pictures" style="float:left;">
+<p style="font-family:Courier; font-size:30px;"><br><br><br>This is our sixth lesson of ICT. <br><br>
+We tackled about how to format text using CSS. </p>	
+
+<br>
+<br>
+<br>
+<br>
+<img src="LESSON7-2ndQtr.jpg" alt="A set of pictures" style="float:right;">
+<p style="font-family:Courier; font-size:30px;"><br><br><br>This is our seventh lesson of ICT. <br><br>
+We tackled about the continuation of our past lesson.</p>	
+
+
+
+</body>
+</html>

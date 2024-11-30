@@ -1,0 +1,108 @@
+<!DOCTYPE.html>
+<html>
+<head> <title> About Page </title> </head>
+<h1 style="text-align:center; font-family:Courier;"> Welcome! </h1>
+<h3 style="text-align:center; font-family:Courier;"> This is the About Page. </h3>
+<body background="pinklet.jpg">
+
+<p style="text-align:center; font-family:Courier;"> Hello! My name is Kiera Anne L. Amor. I am from 9-Fidelity, and our adviser is Dr. Dureza D. Dancal. <br><br>
+I think I know myself pretty well, maybe or maybe not. I have yet to experience life fully,<br><br>
+and Im not mature enough to make big desicions on my own. I know that much since I still rely on people,<br><br> 
+I rely on my friends, I rely on my parents, I even rely to social media. It's bad I know, I trust them more than I trust myself. <br><br>
+I don't think of myself as a bad person though. I think Im nice, kind and lovable. Im approached by many people I have a lot of friends.<br><br>
+And I would like to say that Im successful in school, except for a few subjects. My hobbies? I don't have a lot, <br><br>
+but i do like to draw, paint, sketch, sing and sometimes sing. Im the oldest and I have one sibling that is 10 years old.<br><br>
+He's smart, and im sure he will follow on my footsteps on becoming an Lpsci student. I have nice parents they treat me well,<br><br>
+but sometimes they get mad with my scores, maybe they expect to much from me since I was the previous valedictorian in my school.<br><br>
+Im not really that amazing and I don't know how to make them realize that. That is all about me, im just a simple person, nothing more, nothing less. <br><br>
+Im an average kid who's trying to her best in school to make friends and survive.
+</p>
+
+<figure>
+  <figcaption align="center">Listen my favorite song </figcaption>
+  <audio controls src="Do I wanna know.mp3" align="center"></audio>
+  <a href="Do I wanna know.mp3"></a>
+</figure>
+
+
+<h3 style="text-align:center; font-family:Courier;"> 1st Quarter </h3>
+<hr width="1000" align="center">
+<p style="text-align:center; font-size:25px;"><b> A set of pictures with my bestfriends this quarter :>> </b></p>
+<p align="center"><a href="https://www.canva.com/design/DAGSOf57hMM/DAt0mEJRGmfyYpLQPOceZg/edit"> 7/11 Picture with Friends after Periodical Test </a></p>
+<p align="center"><a href="https://www.canva.com/design/DAGSOdJ2Di4/QX2WYpRIkvY4C8aVYrUSHQ/edit"> Picture with my friends from other sections :>> </a></p>
+<p align="center"><a href="https://www.canva.com/design/DAGSOiTZ2Gs/O25twwTJTijSL23uOeq9ZA/edit"> 7/11 Picture with Friends before Periodical Test </a></p>
+
+<p style="text-align:center; font-size:25px;"><b> MV MAPEH WITH BLOOPERS:>> 
+
+<p style="text-align:center; font-family:Courier;"> <a href="bloopers in mapeh.mp4"> MAPEH MV BLOOPER </a></p>
+<p style="text-align:center; font-family:Courier;"><a href="blooper.mp4"> MAPEH MV BLOOPER </a></p>
+<p style="text-align:center; font-family:Courier;"><a href="mv mapeh.mp4"> MAPEH MV </a></p>
+
+<hr width="1000" align="center">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+
+<h3 align="center"> 2nd Quarter </h3>
+<hr width="1000" align="center">
+
+<table align="center" bordercolor="white" border="5" cellpadding="7">
+<tr>
+
+<th> Description </th>
+<th> Picture</th>
+
+</tr>
+
+<tr>
+
+<td style="font-family:Verdana;"> This is a picture of me and my friends at the parade that english month held, <br><br>
+It was trully an amazing time, me and my friends decided to match costmues we were the chippetes.</td>
+<td> <img src="booklandia.jpg" alt="Class Picture" Width="400" Height="300"></td>
+
+</tr>
+
+<tr>
+<td style="font-family:Verdana;"> This is when my family and I went to tagaytay and at Cecilia's Restaurant. <br><br>
+It was a fun time we visited a lot of places in tagaytay, and I remember feeling refreshed after a long time.</td>
+<td> <img src="my dad.jpg" alt="Picture of students" Width="400" Height="300"> </td>
+</tr>
+
+<tr>
+<td style="font-family:Verdana;"> This is me taking a picture of the sunset, I remeber being in awe  when taking<br><br>
+this, after a bad day at school I see this It made me truly happy. </td>
+<td> <img src="sun.jpg" alt="A Picture of Students" Width="400" Height="300"> </td>
+</tr>
+
+<tr>
+<td style="font-family:Verdana;"> This is us making the dinosaur do backflips. <br><br>
+ </td>
+<td> <a href="backflip.mp4"> VIDEO #1 </a></td>
+</tr>
+
+<tr>
+<td style="font-family:Verdana;"> This is me, singing <br><br>
+at Kurt's birthday party at his house. </td>
+<td> <a href="https://www.canva.com/design/DAGXxYP6Yx0/1ongpbKtKhV6K15gza
+Qiwg/edit?utm_content=DAGXxYP6Yx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> VIDEO #2 </a></td>
+</tr>
+
+<tr>
+<td style="font-family:Verdana;"> This is me, doing <br><br>
+an acting challenge on Kurt's birthday party at his house. </td>
+<td> <a href="https://www.canva.com/design/DAGXxUlFHDA/ChUmaQOjy0EglJUTjwLxJg/edit?utm_
+content=DAGXxUlFHDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> VIDEO #3 </a></td>
+</tr>
+
+</table>
+
+
+</body>
+</html>

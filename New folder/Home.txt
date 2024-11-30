@@ -1,0 +1,42 @@
+<html>
+<head> <title> My E-Portfolio </title>
+<link rel="stylesheet" href="Style.css" type="text/css">
+</head>
+<body background="BlueImageBackground.jpg">
+
+<nav class="navbar">
+<ul>
+<li> <a href="Reflection.html"> Reflection </a> </li>
+<li> <a href="Outputs.html"> Output </a> </li>
+<li> <a href="Programs.html"> Programs </a> </li>
+<li> <a href="Lessons.html"> Lessons </a> </li>
+<li> <a href="About.html"> About </a> </li>
+<li> <a href="Home.html"> Home </a> </li>
+</ul>
+</nav>
+
+
+<main>
+<h1 align="center"> Welcome! </h1> 
+<h1 style="text-align:center; font-size: 100px; color:LightOrange;"><b> MY E-PORTFOLIO </b></h1>
+<hr width="1000" align="center">
+<h3 align="center"> This is the Home Page. </h3> 
+<p style="text-align:center; font-size:25px; font-family:Courier;"><b>My first and second quarter jouney</b></p>
+<img src="Blue-Star-removebg-preview.png" alt="A Blue Star" align="left" Width="300" Height="400">
+<img src="Blue-Star-removebg-preview.png" alt="A Blue Star" align="right" Width="300" Height="400">
+<div class="Introduction#1.0">
+<p style="text-align:center; font-family:Courier;">Hello! I am a student from Las Pinas City National Science High School, <br><br>
+and here is my grade 9 journey this first quarter! Enjoy!! Fun facts about me, is I like singing, <br><br>
+I love doing calligraphy,  and I love being with my friends. family, and my dog. They all give me <br><br>
+the joy that I need for the day. I always need it everyday, and without them, <br><br>
+I would be very sad and upset.:></p>
+<figure>
+  <figcaption align="center">Listen my favorite song </figcaption>
+  <audio controls src="Every Summertime.mp3" align="center"></audio>
+  <a href="Every Summertime.mp3"></a>
+</figure>
+
+
+</main>
+</body>
+</html>
